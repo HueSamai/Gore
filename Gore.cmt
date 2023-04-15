@@ -2,5 +2,5 @@ Name=Gore
 Author=dotpy
 Message=This is a custom message!
 VelocityThreshold=10
-Links=https://raw.githubusercontent.com/HueSamai/Gore/master/Gore.dll,https://raw.githubusercontent.com/HueSamai/Gore/master/gore
+Links=https://raw.githubusercontent.com/HueSamai/Gore/master/Gore.dll,https://raw.githubusercontent.com/HueSamai/Gore/master/gore,https://raw.githubusercontent.com/CementGB/modules/main/PoolingModule/PoolingModule.cmt
 LatestVersion=https://raw.githubusercontent.com/HueSamai/Gore/master/version
